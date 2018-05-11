@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/File/UnityProject/OnlineGameClient/Assets/Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1

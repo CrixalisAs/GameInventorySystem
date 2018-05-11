@@ -1,0 +1,44 @@
+﻿[
+  {
+    "id": 1,
+    "name": "血瓶",
+    "type": "Consumable",
+    "quality": "Common",
+    "description": "这个是用来加血的",
+    "capacity": 10,
+    "buyPrice": 10,
+    "sellPrice": 5,
+    "hp": 10,
+    "mp": 0,
+    "sprite": "Sprites/Items/hp"
+  },
+  {
+    "id": 2,
+    "name": "蓝瓶",
+    "type": "Consumable",
+    "quality": "Common",
+    "description": "这个是用来加蓝的",
+    "capacity": 10,
+    "buyPrice": 10,
+    "sellPrice": 5,
+    "hp": 0,
+    "mp": 10,
+    "sprite": "Sprites/Items/mp"
+  },
+  {
+    "id": 3,
+    "name": "胸甲",
+    "type": "Equipment",
+    "quality": "Rare",
+    "description": "这个胸甲很牛逼",
+    "capacity": 1,
+    "buyPrice": 20,
+    "sellPrice": 10,
+    "sprite": "Sprites/Items/armor",
+    "strength": 10,
+    "intellect": 4,
+    "agility": 9,
+    "stamina": 1,
+    "equipmentType": "Chest" 
+  }
+]
